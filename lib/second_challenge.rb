@@ -7,7 +7,7 @@ def second_challenge
   }
 
   arr = groceries.values
-  #arr = arr.join(',')
+  arr = arr.join(',')
   #arr = arr.split(',')
   arr
   
